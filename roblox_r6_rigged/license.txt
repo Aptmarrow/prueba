@@ -1,0 +1,11 @@
+Model Information:
+* title:	Roblox R6 [Rigged]
+* source:	https://sketchfab.com/3d-models/roblox-r6-rigged-fd308c3375a94116b5958085ee6d77b8
+* author:	youK197_YT (https://sketchfab.com/youK197_YT)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Roblox R6 [Rigged]" (https://sketchfab.com/3d-models/roblox-r6-rigged-fd308c3375a94116b5958085ee6d77b8) by youK197_YT (https://sketchfab.com/youK197_YT) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

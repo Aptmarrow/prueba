@@ -1,0 +1,11 @@
+Model Information:
+* title:	HyperLaser (Roblox)
+* source:	https://sketchfab.com/3d-models/hyperlaser-roblox-4db3f6eb3cbe45ab83d069d488f4c76d
+* author:	thestylecopycat (https://sketchfab.com/thestylecopycat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HyperLaser (Roblox)" (https://sketchfab.com/3d-models/hyperlaser-roblox-4db3f6eb3cbe45ab83d069d488f4c76d) by thestylecopycat (https://sketchfab.com/thestylecopycat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
